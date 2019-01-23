@@ -1,0 +1,8 @@
+D:\Learning\WCF\WCFLearning\WCFSelfHosting\bin\Debug\WCFSelfHosting.exe.config
+D:\Learning\WCF\WCFLearning\WCFSelfHosting\bin\Debug\WCFSelfHosting.exe
+D:\Learning\WCF\WCFLearning\WCFSelfHosting\bin\Debug\WCFSelfHosting.pdb
+D:\Learning\WCF\WCFLearning\WCFSelfHosting\obj\Debug\WCFSelfHosting.csprojResolveAssemblyReference.cache
+D:\Learning\WCF\WCFLearning\WCFSelfHosting\obj\Debug\WCFSelfHosting.exe
+D:\Learning\WCF\WCFLearning\WCFSelfHosting\obj\Debug\WCFSelfHosting.pdb
+D:\Learning\WCF\WCFLearning\WCFSelfHosting\bin\Debug\WCFServices.dll
+D:\Learning\WCF\WCFLearning\WCFSelfHosting\bin\Debug\WCFServices.pdb
